@@ -6,4 +6,4 @@ echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
 echo "Welcome to DevOps"
-echo "hii git hub"
+echo "hii"
